@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "<YOUR_AWS_ROLE_NAME_HERE>",
+    "name": "<YOUR_SLACK_APP_NAME_HERE>",
+    "region": "<YOUR_REGION_HERE>"
+  }
+}

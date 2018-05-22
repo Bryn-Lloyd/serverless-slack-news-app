@@ -1,0 +1,25 @@
+# Generic files
+*.class
+.gradle
+/build/
+/bin/
+/.settings/
+.project
+.classpath
+target
+.DS_Store
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Node Files
+/node_modules/
+package.json
+package-lock.json
+env.json
